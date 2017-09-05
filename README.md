@@ -3,5 +3,5 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 The repository contains:
 - run_analysis.R: Script setting a tidy data base and extract certain information
-- codebook: descripint describes the variables, the data, and any transformations or work performed
+- codebook: describes the variables, the data, and any transformations or work performed
 - xxxx: output-file
