@@ -1,0 +1,22 @@
+Variables and data sets
+X_train: referencing on data to Training set
+y_train: referencing on data to Training labels
+
+X_test: referencing on data to Test set
+y_test: referencing on data to Training labels
+
+x_data : merge data set of X_train, X_test
+y_data : merge data set of y_train and y_test
+
+averages_data.txt: contains averages by activity and subject
+
+mean: Extract of measurement on mean
+std: Extract of measurement on standard deviation
+
+Transformations
+Step1a: Read data sets.
+Step1b: Merging the training and the test sets to create a data set for each x and y.
+Step2: Extracting the measurements on the mean and standard deviation for each measurement.
+Step3: Using descriptive activity names to name the activities in the data set.
+Step4: Appropriately labeling the data set with descriptive variable names.
+Step5: Creating a second data set from the data set in step 4 with the average of each variable for each activity and each subject.
